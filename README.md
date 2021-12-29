@@ -2,3 +2,4 @@
 Sublime 系列注册机
 
 **如有需要，随意提Issue**
+**Feel Free To Create Issues**
